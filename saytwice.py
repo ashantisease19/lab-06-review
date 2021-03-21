@@ -1,2 +1,2 @@
-something= input("Give me a word to say twice. ")
-print(something + " " + something)
+something= input("Give me something to say twice. ")
+print(something + "  " + something)
